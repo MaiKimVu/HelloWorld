@@ -1,3 +1,3 @@
 # Hinweis
 
-Beinhaltet alle Dokumente für den Meilenstein 6.
+Beinhaltet alle Dokumente für den Meilenstein 5.
